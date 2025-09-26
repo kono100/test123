@@ -31,7 +31,7 @@ Chave:[Kono12345]
 <!-- ====================================================== -->
 
 <!-- Envia uma mensagem em pop-up para os usuários. -->
-PopUp:[Olá! Lembre-se de beber água e bom jogo!]
+PopUp:[Olá! Lembre-se de beber água e bom jogo! meu amigo]
 Delay:[10]
 Repetir:[3]
 ---
