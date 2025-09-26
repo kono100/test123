@@ -9,6 +9,8 @@ Nivel:[2],
 Delay:[300],
 Repetir:[infinito]
 ---
+
+
 Bloco de Licença por Chave
 
 Palavra_chave:[Kono12345],
@@ -18,19 +20,26 @@ Nivel:[1],
 Delay:[300],
 Repetir:[infinito]
 ---
+
+
 Bloco de Pop-up
 
 PopUp:[Olá! Lembre-se de beber água e bom jogo!],
 Delay:[10],
 Repetir:[1]
 ---
+
+
 Bloco de Versão
 
 Versao:[V2],
 Delay:[0],
 Repetir:[0]
 ---
-Bloco de Voz (Requer gTTS e pygame)
+
+
+Bloco de Voz
+
 Voz:[Bem-vindo de volta, chefe. Boa caçada!],
 Delay:[600],
 Repetir:[5]
