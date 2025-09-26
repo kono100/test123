@@ -40,7 +40,7 @@ Repetir:[0]
 
 Bloco de Voz
 
-Voz: [Bem-vindo de volta, chefe. Boa caçada]
+Voz: [Bem-vindo de volta, chefe. Boa caçada],
 Delay:[15],
 Repetir:[3]
 ---
