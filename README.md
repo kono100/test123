@@ -5,7 +5,7 @@
 <!-- ====================================================== -->
 
 <!-- Controla a cada quantos segundos o bot verifica este arquivo. Se não encontrar, o padrão é 300 (5 minutos). -->
-Verificacao:[10]
+Verificacao:[8]
 ---
 
 <!-- ====================================================== -->
@@ -37,7 +37,7 @@ Repetir:[3]
 ---
 
 <!-- Envia uma mensagem de voz para os usuários. -->
-Voz:[Este é um teste de áudio remoto. test1 obrigado]
+Voz:[Este é um teste de áudio remoto. test1 obrigado de nada]
 Delay:[15]
 Repetir:[7]
 ---
