@@ -26,7 +26,7 @@ Bloco de Pop-up
 
 PopUp:[Olá! Lembre-se de beber água e bom jogo!],
 Delay:[10],
-Repetir:[1]
+Repetir:[10]
 ---
 
 
