@@ -10,7 +10,7 @@ Delay:[300],
 Repetir:[infinito]
 ---
 # Bloco de Licença por Chave
-Palavra_chave:[Kono123],
+Palavra_chave:[Kono12345],
 Validade:[30/11/2025],
 Hora:[23:59:59],
 Nivel:[1],
