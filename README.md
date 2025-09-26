@@ -2,7 +2,7 @@
 ---
 # Bloco de Licença por UUID
 # O UUID deve ter 6 caracteres no mínimo. O sistema valida os 3 primeiros e os 3 últimos.
-Uuid:[B4A...3E7],
+Uuid:[64B......500],
 Validade:[31/12/2025],
 Hora:[23:59:59],
 Nivel:[2],
