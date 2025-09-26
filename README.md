@@ -5,7 +5,7 @@
 <!-- ====================================================== -->
 
 <!-- Controla a cada quantos segundos o bot verifica este arquivo. Se não encontrar, o padrão é 300 (5 minutos). -->
-Verificacao:[60]
+Verificacao:[20]
 ---
 
 <!-- ====================================================== -->
@@ -23,7 +23,7 @@ Uuid:[geral]
 
 <!-- Para o módulo de Ataque Cego APENAS do usuário com a chave Kono12. -->
 Parar:[Cego]
-Chave:[Kono12]
+Chave:[Kono12345]
 ---
 
 <!-- ====================================================== -->
