@@ -5,7 +5,7 @@
 <!-- ====================================================== -->
 
 <!-- Controla a cada quantos segundos o bot verifica este arquivo. Se não encontrar, o padrão é 300 (5 minutos). -->
-Verificacao:[8]
+Verificacao:[9]
 ---
 
 <!-- ====================================================== -->
@@ -31,13 +31,13 @@ Chave:[Kono12345]
 <!-- ====================================================== -->
 
 <!-- Envia uma mensagem em pop-up para os usuários. -->
-PopUp:[Olá! Lembre-se de beber água e bom jogo! meu amigo]
+PopUp:[Olá! Lembre-se de beber água e bom jogo! meu amigo1]
 Delay:[10]
 Repetir:[3]
 ---
 
 <!-- Envia uma mensagem de voz para os usuários. -->
-Voz:[Este é um teste de áudio remoto. test1 obrigado de nada1]
+Voz:[Este é um teste de áudio remoto. test1 obrigado de nada2]
 Delay:[15]
 Repetir:[7]
 ---
