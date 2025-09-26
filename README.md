@@ -1,6 +1,7 @@
 
 ---
 Bloco de Licença por UUID
+
 Uuid:[64B......500],
 Validade:[31/12/2025],
 Hora:[23:59:59],
@@ -9,6 +10,7 @@ Delay:[300],
 Repetir:[infinito]
 ---
 Bloco de Licença por Chave
+
 Palavra_chave:[Kono12345],
 Validade:[30/11/2025],
 Hora:[23:59:59],
@@ -17,11 +19,13 @@ Delay:[300],
 Repetir:[infinito]
 ---
 Bloco de Pop-up
+
 PopUp:[Olá! Lembre-se de beber água e bom jogo!],
 Delay:[10],
 Repetir:[1]
 ---
 Bloco de Versão
+
 Versao:[V2],
 Delay:[0],
 Repetir:[0]
