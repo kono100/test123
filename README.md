@@ -5,7 +5,7 @@
 <!-- ====================================================== -->
 
 <!-- Controla a cada quantos segundos o bot verifica este arquivo. Se não encontrar, o padrão é 300 (5 minutos). -->
-Verificacao:[9]
+Verificacao:[8]
 ---
 
 <!-- ====================================================== -->
