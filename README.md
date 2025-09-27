@@ -37,7 +37,7 @@ Repetir:[1]
 ---
 
 <!-- Envia uma mensagem de voz para os usuários. -->
-Voz:[Este é um teste de áudio remoto. oi pamella12345th]
+Voz:[Este é um teste de áudio remoto. oi pamella12345thiago]
 Delay:[15]
 Repetir:[1]
 ---
