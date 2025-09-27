@@ -33,11 +33,11 @@ Chave:[Kono12345]
 <!-- Envia uma mensagem em pop-up para os usuários. -->
 PopUp:[Olá! Lembre-se de beber água e bom jogo! meu amigo123]
 Delay:[10]
-Repetir:[3]
+Repetir:[2]
 ---
 
 <!-- Envia uma mensagem de voz para os usuários. -->
-Voz:[Este é um teste de áudio remoto. oi pamella]
+Voz:[Este é um teste de áudio remoto. oi pamella123]
 Delay:[15]
 Repetir:[2]
 ---
